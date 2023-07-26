@@ -1,6 +1,3 @@
 Hello world
-<<<<<<< HEAD
 modified
 change to be reverted
-=======
->>>>>>> parent of e759387 (change)
