@@ -13,6 +13,3 @@ I am a Software Developer/Backend Developer, I am from Kerala, India.
 <ul>
 <li><a href="https://medium.com/@niranjannb7777/binary-huffman-encoding-91b1884edc05?source=rss-7fc07edd0058------2" target="_blank">Binary Huffman Encoding</a></li>
 </ul>
-
-____
-
